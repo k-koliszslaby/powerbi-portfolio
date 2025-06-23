@@ -3,7 +3,7 @@
 An interactive Power BI dashboard designed to analyze key HR metrics such as headcount, turnover, and demographic trends. The project began with the overview page developed during the *Power BI dla Analityków* course by Dagmara Anuszczyk, and was further extended independently with additional pages and deeper analysis.
 
 > ✅ **Built as part of the**  
-> [Power BI dla Analityków](https://bideveloper.pl/pbifundamentals/) course by Dagmara Anuszczyk
+> [Power BI dla Analityków](https://bideveloper.pl/pbifundamentals/) course by Dagmara Anuszczyk.
 
 ## 📊 Key Features:
 - Overview of total employees, new hires, and terminations
