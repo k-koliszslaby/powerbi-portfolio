@@ -49,3 +49,7 @@ The bike store management faces several key challenges addressed by this analysi
 - Extended the initial course project with additional data modeling and analytics.  
 - Created complex DAX measures and interactive visuals.  
 - Designed user-friendly, multi-page dashboard focused on business insights.
+
+## 🖼️ Screenshot
+
+![Bike Store Dashboard Overview](./OverviewBS.png)
