@@ -2,6 +2,12 @@
 
 A comprehensive Power BI report designed to analyze and visualize sales data for a bike store. This project started with the first page created during the Data Hero course and was extended independently to include additional analyses and dashboard pages.
 
+> ✅ **Built as part of the**  
+> [Data Heroes 2.0](https://dataheroes.pl/).  
+> Data Heroes 2.0 by Dagmara Anuszczyk
+
+
+
 ## 🎯 Business Problem
 
 The bike store management faces several key challenges addressed by this analysis:
