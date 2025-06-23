@@ -44,3 +44,7 @@ A sleek, interactive one-page Power BI dashboard delivering a high-level overvie
 - Enhanced report design with improved layout, color consistency, and minimalist styling  
 - Implemented advanced slicers and conditional formatting to support better storytelling  
 - Ensured the report is self-contained and ready for executive or stakeholder presentation
+
+# 🖼️ Overview Screenshot
+![OverviewM Page](./Assets/OverviewM.png)
+
