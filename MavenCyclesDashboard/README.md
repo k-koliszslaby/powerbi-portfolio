@@ -46,5 +46,5 @@ A sleek, interactive one-page Power BI dashboard delivering a high-level overvie
 - Ensured the report is self-contained and ready for executive or stakeholder presentation
 
 # 🖼️ Overview Screenshot
-![OverviewM Page](./Assets/OverviewM.png)
+![OverviewM Page](./OverviewM.png)
 
