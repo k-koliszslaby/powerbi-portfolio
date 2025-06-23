@@ -19,3 +19,7 @@ An interactive Power BI dashboard designed to analyze key HR metrics such as hea
 - Data model design and relationships
 - Building custom DAX KPIs and funnel metrics
 - UX-focused report layout and interactivity
+
+## 🖼️ Screenshot:
+
+![Employee Dashboard Overview](./overview.png)
