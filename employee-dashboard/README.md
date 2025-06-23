@@ -22,4 +22,4 @@ An interactive Power BI dashboard designed to analyze key HR metrics such as hea
 
 ## 🖼️ Screenshot:
 
-![Employee Dashboard Overview](./overview.png)
+![Employee Dashboard Overview](./Overview.png)
