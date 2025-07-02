@@ -15,7 +15,7 @@ An interactive Power BI dashboard designed to analyze key HR metrics such as hea
 ## ⚙️ Tools & Technologies:
 - Power BI, DAX, Power Query
 - Simulated HR dataset
-- Public dashboard link: [View report](https://app.powerbi.com/links/3oztymfkkD)
+- Public dashboard link: [View report](https://app.powerbi.com/view?r=eyJrIjoiMDI0ZDM1MWUtMjE4Yi00NDEzLTgzNmUtM2U2ZTRkYmY5Y2NiIiwidCI6IjI3ZjExNTYzLTlhMDgtNDNiZC1hZDhmLTJlZGZiZTkxNmMzNCJ9)
 
 ## 🧩 My Contribution:
 - Data cleaning and transformation in Power Query
