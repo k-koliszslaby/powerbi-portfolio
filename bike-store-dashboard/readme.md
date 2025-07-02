@@ -47,7 +47,7 @@ The bike store management faces several key challenges addressed by this analysi
 
 - Power BI, Power Query, DAX  
 - Data Hero course foundation plus self-driven enhancements  
-- Live report link: [View dashboard](https://app.powerbi.com/links/GDgaCe2SgY)
+- Live report link: [View dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjhjNjYzYmEtOWFkNi00OGI2LTk2YTgtYjA3YzBhMTU4MWNkIiwidCI6IjI3ZjExNTYzLTlhMDgtNDNiZC1hZDhmLTJlZGZiZTkxNmMzNCJ9)
 
 ## 🧩 My Role
 
