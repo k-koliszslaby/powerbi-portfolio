@@ -35,7 +35,7 @@ A sleek, interactive one-page Power BI dashboard delivering a high-level overvie
 ---
 
 ## 🔗 Live Report
-[👉 View dashboard](https://app.powerbi.com/links/F5u8fs6Ogw?ctid=27f11563-9a08-43bd-ad8f-2edfbe916c34&pbi_source=linkShare)
+[👉 View dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDVmNmMxNDItMWVjNC00ZjYwLTlhYzEtNjMwOTcxMjdiYjU3IiwidCI6IjI3ZjExNTYzLTlhMDgtNDNiZC1hZDhmLTJlZGZiZTkxNmMzNCJ9)
 
 ---
 
